@@ -24,7 +24,9 @@ training set.
 Use the bundled Python runtime available in Codex:
 
 ```powershell
-& 'C:\Users\Harish\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' src\pca_ann_face_recognition.py
+python install -r requirements.py
+cd src
+python pca_ann_face_recognition.py
 ```
 
 Outputs are written to `outputs/`:
