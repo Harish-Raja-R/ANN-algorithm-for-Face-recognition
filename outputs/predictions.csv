@@ -1,0 +1,71 @@
+path,actual,predicted,ann_confidence,nearest_distance
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_30.jpg,UNKNOWN,UNKNOWN,0.7724946448549245,3.264728950589662
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_119.jpg,UNKNOWN,UNKNOWN,0.6417709126714477,3.0085241720148805
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_56.jpg,Aamir,Aamir,0.9996782768151551,2.6626895487765356
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_34.jpg,UNKNOWN,UNKNOWN,0.8397200130922098,2.804726192942849
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_65.jpg,Ajay,Ajay,0.9952158380412012,2.9804938603888638
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_103 - Copy.jpg,Ajay,Aamir,0.9985513475653169,2.230112761524852
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_101.jpg,UNKNOWN,UNKNOWN,0.7895193310214567,3.16448960810543
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_103.jpg,UNKNOWN,Aamir,0.994805961320139,4.202996089760799
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_39 - Copy.jpg,Ajay,Ajay,0.999924936310618,0.0
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_83 - Copy.jpg,Ajay,Ajay,0.9994371138683124,3.3494388938325708
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_20.jpg,UNKNOWN,UNKNOWN,0.5679525317579532,2.4748011696829395
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_105.jpg,UNKNOWN,Aamir,0.9992377425351295,1.9723791690859722
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_12.jpg,UNKNOWN,Aamir,0.9995465816464043,3.38387273961578
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_108.jpg,UNKNOWN,Aamir,0.9914161078370846,3.3215727520811793
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_111.jpg,UNKNOWN,Aamir,0.9726596891374008,3.925099515639802
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_113.jpg,UNKNOWN,Aamir,0.9988392081443084,3.5651734242633797
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_118.jpg,Aamir,Aamir,0.9999721863834395,3.225065228805645
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_22.png,UNKNOWN,Ajay,0.9996656561534174,3.2976936379821784
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_20.jpg,Aamir,UNKNOWN,0.8382342085682433,3.399804490833937
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_58.jpg,Aamir,Aamir,0.9896756786064447,0.0
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_17.jpg,UNKNOWN,Ajay,0.9990649672444244,3.0132238357549066
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_9.jpg,Ajay,Ajay,0.988653274665332,3.643982697147818
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_117.jpg,Aamir,Aamir,0.925656208970367,1.815117199399615
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_33.jpg,UNKNOWN,Aamir,0.9977886479863094,3.3824792094795106
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_17.jpg,Ajay,Ajay,0.9991069516858306,0.0
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_95.jpg,Aamir,Aamir,0.9993192566265022,2.2493600324137506
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_38.jpg,UNKNOWN,Aamir,0.9985958586925725,3.0913203401443603
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_24.jpg,UNKNOWN,Aamir,0.999956652676273,2.4723987701586343
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_89.jpg,Ajay,Ajay,0.999998039189861,0.0
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_102.jpg,Aamir,Aamir,0.9788220522412672,2.2368756812812527
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_16.jpg,Ajay,UNKNOWN,0.5581155016514638,3.0014131770005674
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_36.jpg,UNKNOWN,UNKNOWN,0.5121693248997266,2.3671641563199177
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_100 - Copy.jpg,Ajay,Ajay,0.981715503777834,0.0
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_27.jpg,Aamir,Aamir,0.9988126154689305,2.209570720982939
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_3.jpg,UNKNOWN,Aamir,0.9763632001537244,2.4640378909243763
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_7 - Copy.jpg,Ajay,Ajay,0.9997053494672877,0.9739418489402023
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_7.jpg,Ajay,Ajay,0.9997053494672877,0.9739418489402023
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_18.jpg,UNKNOWN,UNKNOWN,0.6291536006533119,3.1773209629179937
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_50.jpg,Aamir,Aamir,0.9999956096432717,1.4318539211767858
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_27.jpg,UNKNOWN,Aamir,0.941794646889916,2.4937306973613484
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_17.jpg,Aamir,Ajay,0.9977643902363296,2.8268397606170725
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_121.png,UNKNOWN,UNKNOWN,0.6087193804530289,2.6658982254015955
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_107.jpg,UNKNOWN,UNKNOWN,0.7297227869762918,2.1313697010714843
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_98.jpg,Aamir,Aamir,0.9998681302682552,2.1879363583542126
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_103.jpg,Ajay,Aamir,0.9985513475653169,2.230112761524852
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_115.jpg,UNKNOWN,Ajay,0.9500933065673757,3.700530877161124
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_89.jpg,Aamir,Aamir,0.9981400438314296,3.3378098035059747
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_21.jpg,Aamir,Aamir,0.9323143752769156,2.576604065903983
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_80.jpg,Aamir,Aamir,0.9992670435116344,1.9952200682230956
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_31.jpg,UNKNOWN,Aamir,0.9693566206057724,2.0897371037501795
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_106.jpg,Aamir,Ajay,0.9184131698162735,2.7596242930093404
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_63.jpg,Aamir,Ajay,0.9912282122415562,2.74346375035919
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_38.jpg,Ajay,Ajay,0.9674576622304997,2.9216162263854355
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_110 - Copy.jpg,Ajay,Ajay,0.9995872993827648,0.0
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_37.jpg,UNKNOWN,UNKNOWN,0.5911868538034601,2.243131494411522
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_93.jpg,Aamir,Aamir,0.9695855662764093,0.905549215901828
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_48.jpg,UNKNOWN,Ajay,0.9997995672875455,2.24989614008898
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_117.png,UNKNOWN,UNKNOWN,0.6715178377797214,2.377082432478517
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_28.jpg,Ajay,Ajay,0.9983161796693992,1.346543207907389
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_115.jpg,Aamir,Aamir,0.9994402757158296,2.4935356493844316
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_116.jpg,UNKNOWN,Ajay,0.8928760717242699,3.016305100613145
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_87 - Copy.jpg,Ajay,Ajay,0.9849150302252082,2.8929409751172814
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_7.jpg,Aamir,Aamir,0.8675282336885889,2.2336552707060826
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_87.jpg,Ajay,Ajay,0.9849150302252082,2.8929409751172814
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_104.jpg,Ajay,UNKNOWN,0.7436885800263507,2.0500487409988413
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Aamir\face_119.jpg,Aamir,Aamir,0.9886847216104222,3.1535220431974023
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_47.jpg,UNKNOWN,Aamir,0.994805961320139,4.202996089760799
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_104 - Copy.jpg,Ajay,UNKNOWN,0.7436885800263507,2.0500487409988413
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Akshay\face_35.jpg,UNKNOWN,Ajay,0.9204251804069599,2.373866445479795
+C:\Users\Harish\OneDrive - cit.edu.in\Documents\New project\dataset\dataset\faces\Ajay\face_83.jpg,Ajay,Ajay,0.9994371138683124,3.3494388938325708
